@@ -1,0 +1,6 @@
+github.com/kirillApanasiuk/kit v1.0.1 h1:iy5ttQNoA+Go2YlRJsLaR2vQW5Cm+lTfF+O9dNb8YWU=
+github.com/kirillApanasiuk/kit v1.0.1/go.mod h1:aODaOctfY3HRUUEUf/qrF+tI2T0flr3sD6gHpHBFDIc=
+github.com/kirillApanasiuk/movie-metadata v0.0.4 h1:CWpFg7VzT+aagJTVTXFvKYQlYbUbjTeTecoK2zpufPc=
+github.com/kirillApanasiuk/movie-metadata v0.0.4/go.mod h1:iOEFCpAEecXXHUHaQXElVi6lAJ+lPcp7CKN6m3WCUy0=
+github.com/kirillApanasiuk/movie-rating v0.0.2 h1:gJx7IctfHv3vw4RhuXSXMaX6oKZkrqL5WiEsTrOjjxw=
+github.com/kirillApanasiuk/movie-rating v0.0.2/go.mod h1:JE6Z6n0mafZOoUN9ro2XXCoYBL86l12bk5b4MG5muFQ=
